@@ -5,4 +5,4 @@ int main(void){
 		exit(EXIT_SUCCESS);
 }   
 //Nuevo linea 
-//nueva linea 
+//nueva linea // Nueva optimizacion 
